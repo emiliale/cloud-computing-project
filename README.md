@@ -4,4 +4,4 @@ Image Processing service hosted in an elastic public cloud. The solution was imp
 
 ## An application architecture
 
- ![Some News](./images/nauto-scaling-scheme.png)
+ ![scheme](./images/auto-scaling-scheme.png)
